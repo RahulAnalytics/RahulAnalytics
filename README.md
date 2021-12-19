@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulAnalytics
 - 👀 I’m interested in Data Analytics, Power BI, Power Automate
-- 🌱 I’m currently learning DAX and SQL
+- 🌱 I’m currently learning DAX, SQL, R and Python
 - 💞️ I’m looking to collaborate on Engineering Analytics, Workforce Optimization
 - 📫 How to reach me rahul.analytics@outlook.com
 
